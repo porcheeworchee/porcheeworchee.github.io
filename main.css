@@ -74,6 +74,33 @@ img{
 	-webkit-text-fill-color: transparent;
 }
 
+.twittericon{
+	font-size: 4rem;
+	background: linear-gradient(to top, #36d1dc, #5b86e5);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.facebookicon{
+	font-size: 4rem;
+	background: linear-gradient(to top, #43cea2, #185a9d);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.instagramicon{
+	font-size: 4rem;
+	background: linear-gradient(to top, #02aab0, #00cdac);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.behanceicon{
+	font-size: 4rem;
+	background: linear-gradient(to top, #36d1dc, #5b86e5);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
 
 .container{
 	width: 90%;
